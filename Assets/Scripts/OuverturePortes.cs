@@ -8,18 +8,6 @@ public class OuverturePortes : MonoBehaviour
     [SerializeField] GameObject _porteDroite;
     [SerializeField] GameObject _porteGauche;
     [SerializeField] GameObject _joueur;
-    // Start is called before the first frame update
-    void Start()
-    {
-        Debug.Log(_porteDroite);
-        Debug.Log(_porteGauche);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
     void OnTriggerEnter(Collider other)
     {
