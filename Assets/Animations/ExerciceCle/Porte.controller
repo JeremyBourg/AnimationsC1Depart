@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 006f4b5a1bf6259488037c5051bb4929, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _clee: {fileID: 0}
+  _clee: {fileID: 1582621612835726801, guid: 1436513f7b239264f9d74995c0c0b042, type: 3}
 --- !u!1101 &-3904371283190466852
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
